@@ -1,3 +1,4 @@
+{
 "firstName": "Phillip",
 "lastName": "Roman",
 "preferredName": "Phillip",
@@ -6,5 +7,6 @@
 "city": "Plainfield",
 "state": "IL",
 "zip": "60586",
-"favoriteHobby": "Singing"
+"favoriteHobby": "Singing",
 "seatNumber": "65"
+}
