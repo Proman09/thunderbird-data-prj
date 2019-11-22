@@ -1,10 +1,12 @@
+{
 "firstName": "Phillip",
 "lastName": "Roman",
-"preferredName": "Phillip",
+"preferredName": "Phil",
 "email": "philliproman@lewisu.edu",
 "phoneNumber": "779-234-4200",
 "city": "Plainfield",
 "state": "IL",
 "zip": "60586",
-"favoriteHobby": "Singing"
+"favoriteHobby": "Singing",
 "seatNumber": "65"
+}
